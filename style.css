@@ -1,0 +1,44 @@
+.moda {
+    width: 250px;
+    height: 100px;
+         
+ }
+
+ .casa {
+    width: 190px;
+    height: 100px;  
+ }
+
+.cabecalhomoda {
+    background-color: #BB86FC;
+    color: white;
+ 
+}
+
+.conteudomoda {
+    background-color: #424250;
+    color: white;
+
+    }
+
+.cabecalhocasa {
+    background-color: #00C4B4;
+    color: white; 
+   
+}
+
+.conteudocasa {
+    background-color: #424250;
+    color: white;
+}
+
+td {
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
